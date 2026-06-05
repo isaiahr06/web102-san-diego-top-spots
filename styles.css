@@ -5,3 +5,39 @@ body{
     background-attachment: fixed;
     background-size: cover;
 }
+h1{
+    text-align: center;
+    color: white;
+}
+table{
+    width: 80%;
+    border-collapse: collapse;
+    background-color:white;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+}
+th {
+    background-color: orange;
+    color: white;
+    padding: 12px;
+    text-align: left;
+}
+td{
+    border: 1px solid lightgrey;
+    padding: 12px;
+    vertical-align: top;
+}
+tr:nth-child(even){
+    background-color: #f9f9f9;
+}
+tr:hover{
+    background-color: #fffdd2;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover{
+    color: orange;
+    text-decoration: underline;
+}
