@@ -12,6 +12,7 @@ $.getJSON("data.json", function(data) {
         </tr>`;
 
         $("#spots-table").append(row);
+        
     });
-})
+  });
 });
