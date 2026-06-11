@@ -71,9 +71,7 @@ a:hover{
     height: 220px;
     object-fit: cover;
 }
-.card-content{
-    padding:20px;
-}
+
 .map-btn {
 
     display: inline-block;
