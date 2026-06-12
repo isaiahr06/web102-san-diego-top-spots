@@ -54,7 +54,7 @@ a:hover{
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(350px, 1fr));
     gap: 25px;
-    padding:208px;
+    padding:100px;
 }
 .card{
     background: white;
